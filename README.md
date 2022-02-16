@@ -1,0 +1,1 @@
+# ajs-typescript-2
